@@ -30,11 +30,11 @@ Try it out [here](https://halimxyz.github.io/Pig-Game/)
 
 ## 📸 Screenshots
 
-![image_2025-05-29_10-52-24](https://github.com/user-attachments/assets/f7ee3dbe-3d7a-4e8b-9461-9ebca934b326)
+![Game Start](https://github.com/user-attachments/assets/f7ee3dbe-3d7a-4e8b-9461-9ebca934b326)
 
-![image_2025-05-29_10-54-18](https://github.com/user-attachments/assets/09c41409-0c50-42d5-a885-3e2ae59bdb24)
+![Player 1 Wins](https://github.com/user-attachments/assets/09c41409-0c50-42d5-a885-3e2ae59bdb24)
 
-![image_2025-05-29_10-56-09](https://github.com/user-attachments/assets/4039838f-3cf8-45ef-a15d-777050bc4b54)
+![Player 2 Wins](https://github.com/user-attachments/assets/4039838f-3cf8-45ef-a15d-777050bc4b54)
 
 ## 📁 Getting Started
 
