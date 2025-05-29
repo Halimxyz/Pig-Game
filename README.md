@@ -1,5 +1,5 @@
 
-# Dice Game 🎲
+# Dice Pig Game 🎲
 
 A two-player turn-based dice game where players compete to reach 100 points. On their turn, a player rolls the dice and accumulates points — but rolling a 1 resets the round score and passes the turn. Players must decide strategically when to 'hold' and secure their progress.
 
